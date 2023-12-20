@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L/z0KqXi8YVzYP/RFDeSUoOkfVRJ8JrVkRp8tyhAE0wx/rg68tSCHViy0GNa50r0iJ+vcoal/J4B8HPnY6X6VQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rajmanipatel.FAREAST\\OneDrive - Microsoft\\Desktop\\personal\\learning\\gitProjects\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajmanipatel.FAREAST\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
